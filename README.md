@@ -1,5 +1,5 @@
 # ValveAPI -> working with API and TableViewCell + SearchBar
-api - https://docs.opendota.com
+api - https://docs.opendota.com (/proPlayers, 3000 accounts)
 
 ![image](https://user-images.githubusercontent.com/93935894/222972988-1e1b3fbf-562c-420d-a8bd-1214aa6d2908.png)
 ![image](https://user-images.githubusercontent.com/93935894/222972992-4c8bafd7-96c1-4498-ae2c-51c0a8b321f2.png)
